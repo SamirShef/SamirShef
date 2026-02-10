@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=samirshef&label=Profile%20views&color=0e75b6&style=flat" alt="samirshef" />
 </p>
 
-- 🔭 I’m currently working on [Onyx](https://github.com/SamirShef/onyxlang)
+- 🔭 I’m currently working on [Marble](https://github.com/SamirShef/marblelang)
 - 🌱 I’m currently learning **C/C++ and Rust**
 - ⚡ Fun fact **I develop the strangest projects, but I like everything.**
 
