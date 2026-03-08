@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SamirShef</h1>
-<h3 align="center">A novice backend developer from Russia</h3>
+<h3 align="center">A novice system programmer developer from Russia</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=samirshef&label=Profile%20views&color=0e75b6&style=flat" alt="samirshef" />
