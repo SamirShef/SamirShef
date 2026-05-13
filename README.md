@@ -1,59 +1,55 @@
-<h1 align="center">Hi 👋, I'm SamirShef</h1>
-<h3 align="center">A novice system programmer developer from Russia</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samirshef&label=Profile%20views&color=0e75b6&style=flat" alt="samirshef" />
+# 🛠️ SamirShef
+
+**Software Engineer | Open Source Enthusiast**
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamirShef&color=6695E6&style=flat-square&label=Profile+Views)
+![Stars](https://img.shields.io/github/stars/SamirShef?style=flat-square&color=6695E6&labelColor=333333&logo=github)
+![Followers](https://img.shields.io/github/followers/SamirShef?style=flat-square&color=6695E6&labelColor=333333&logo=github)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Advocate;Arch+Linux+User;Neovim+Enthusiast)](https://git.io/typing-svg)
+
+---
+
+### 🧬 About Me
+
+I am a passionate developer in system programming and I develop compilers, but I am still searching for myself. Currently focusing on systems programming while staying open to new challenges and technologies in the **Open Source** ecosystem.
+
+I value minimalist design, clean architecture, and the flexibility of **Arch Linux**.
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-- 🔭 I’m currently working on [Bloop](https://github.com/SamirShef/bloop)
-- 🌱 I’m currently learning **C/C++ and Rust**
-- ⚡ Fun fact **I develop the strangest projects, but I like everything.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/SamirShef"> <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="50px" height="50px"> </a>
-  <a href="mailto:ssserin@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50px" height="50px" alt="gmail" /> </a>
+<p align="center">
+    <img src="https://img.shields.io/badge/LLVM-black?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM" />
+    <img src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+    <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" width="50px" height="50px" alt="rust" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" width="50px" height="50px" alt="c" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50px" height="50px" alt="cpp" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" width="50px" height="50px" alt="csharp" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50px" height="50px" alt="vscode" />
-  </a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cmake" width="50px" height="50px" alt="cmake" />
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arch" width="50px" height="50px" alt="archlinux" />
-  </a>
-  <a href="https://llvm.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width="50px" height="50px" alt="llvm" />
-  </a>
-</p>
+---
 
-<h3 align="left">GitHub Analytics:</h3>
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamirShef&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=600" height="180px" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" />
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamirShef&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=SamirShef&theme=dark)
+
+</div>
