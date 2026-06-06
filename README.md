@@ -35,11 +35,11 @@ I'm a beginner system programmer, I develop compilers, and I want more.
 ### 📊 GitHub Stats
 
 <table align="center" border="0">
-  <tr>
-    <td>
+  <tr border="0">
+    <td border="0">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" />
     </td>
-    <td>
+    <td border="0">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
