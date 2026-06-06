@@ -34,7 +34,7 @@ I'm a beginner system programmer, I develop compilers, and I want more.
 
 ### 📊 GitHub Stats
 
-<table align="center" hidden>
+<table align="center" border="0">
   <tr>
     <td>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" />
