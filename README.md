@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="100%" height="100%">
 
 # Hi, I'm SamirShef
 
@@ -34,8 +34,8 @@ I'm a beginner system programmer, I develop compilers, and I want more.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" width="50%" height="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" height="50%" />
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=SamirShef&theme=dark)
 
