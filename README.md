@@ -34,8 +34,7 @@ I'm a beginner system programmer, I develop compilers, and I want more.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" width="25%" height="25%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="25%" height="25%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamirShef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamirShef GitHub Stats" width="45%" height="45%" style="padding-right: 5px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirShef&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" height="45%" style="padding-left: 5px" />
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=SamirShef&theme=dark)
 
